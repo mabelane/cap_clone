@@ -1,0 +1,9 @@
+String payBeneficiary = "Pay Beneficiary";
+String transaferMoney = "Transfer Money";
+String trackMoney = "Track Money";
+String buyPrepaid = "Buy Prepaid";
+String buyElectricity = "Buy Electricity";
+String sendCahs = "Send Cash";
+String availableBalance = "Available balance";
+String totalSaved = "Total saved";
+String liveBetterString = "Live Better";
